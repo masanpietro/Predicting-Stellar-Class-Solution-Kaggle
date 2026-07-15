@@ -2,7 +2,7 @@
 
 This repository contains my solution for the Kaggle Playground Series Predicting Stellar Class Competition (Season 6, Episode 6). It uses a CatBoost classifier combined with Optuna for hyperparameter tuning. The main focus of this approach is a custom evaluation metric designed to strictly penalize overfitting while maximizing validation accuracy.
 
-Using this pipeline, the current test accuracy achieved was 0.93867. (Current test accuracy based on 20% of the test data, will update when final results are released)
+Using this pipeline, the test accuracy achieved was 0.93697.
 
 ## The Custom Evaluation Metric
 
